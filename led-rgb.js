@@ -1,3 +1,8 @@
+// wiring info
+// http://www.buildcircuit.com.au/index.php?route=blog/blog&blog_id=22
+//
+// REMEMBER THE RESISTORS!!!
+
 const five = require('johnny-five');
 
 five.Board().on('ready', function() {

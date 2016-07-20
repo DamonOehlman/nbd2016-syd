@@ -6,11 +6,11 @@ Some simple examples for Nodebots Day Sydney 2016.
 
 ### Really Simple
 
-[led.js](LED - simple, check it on the board)
-[joystick.js](Simple XY Joystick Example)
+- [LED - simple, check it on the board](led.js)
+- [Simple XY Joystick Example](joystick.js)
 
 ### Simple
 
-[led.js](LED - external, use resistor)
-[led-rgb.js](RGB LED - external, again resistors)
+- [LED - external, use resistor](led.js)
+- [RGB LED - external, again resistors](led-rgb.js)
 

@@ -1,0 +1,25 @@
+{
+  "name": "nbd2016",
+  "version": "1.0.0",
+  "description": "A few sample exercises for NBD Sydney 2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "interchange install --interactive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamonOehlman/nbd2016.git"
+  },
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/nbd2016/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/nbd2016#readme",
+  "dependencies": {
+    "babel-cli": "^6.11.4",
+    "johnny-five": "^0.9.60",
+    "nodebots-interchange": "github:ajfisher/nodebots-interchange"
+  }
+}

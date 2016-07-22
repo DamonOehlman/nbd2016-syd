@@ -20,4 +20,5 @@ Some simple examples for Nodebots Day Sydney 2016.
 - [8x8 LED Matrix - single unit](matrix.js)
 - [Temperature Sensor](sensor-temperature.js)
 - [Sound Sensor](sensor-sound.js)
+- [Proximity Sensor](sensor-proximity.js)
 

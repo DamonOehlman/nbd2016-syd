@@ -8,6 +8,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 
 - [LED - simple, check it on the board](led.js)
 - [Simple XY Joystick Example](joystick.js)
+- [Light Sensor - simple analog read](sensor-ldr.js)
 
 ### Simple
 

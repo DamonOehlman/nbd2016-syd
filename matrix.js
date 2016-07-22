@@ -1,4 +1,5 @@
 // https://github.com/rwaldron/johnny-five/blob/master/docs/led-matrix.md
+// chaining tutorial: https://github.com/rwaldron/johnny-five/blob/master/docs/led-matrix-tutorial.md
 
 // VCC -> +5V
 // GND -> GND

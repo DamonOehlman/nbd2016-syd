@@ -22,3 +22,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 - [Sound Sensor](sensor-sound.js)
 - [Proximity Sensor](sensor-proximity.js)
 
+## Stretch Goals
+
+- [Stepper](stepper.js)
+

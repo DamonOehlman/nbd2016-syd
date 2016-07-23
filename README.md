@@ -22,6 +22,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 - [Temperature Sensor](sensor-temperature.js)
 - [Sound Sensor](sensor-sound.js)
 - [Proximity Sensor](sensor-proximity.js)
+- [Accelerometer](sensor-accelerometer.js)
 
 ## Stretch Goals
 

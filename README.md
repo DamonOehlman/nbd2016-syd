@@ -18,6 +18,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 - [RGB LED - external, again resistors](led-rgb.js)
 - [Simple XY Joystick Example](joystick.js)
 - [Relay](relay.js)
+- [Sensor Smoke - MQ2](sensor-mq2-smoke.js)
 
 ### Getting a little tricky
 

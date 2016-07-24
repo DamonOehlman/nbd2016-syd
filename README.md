@@ -9,6 +9,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 - [LED - simple, check it on the board](led.js)
 - [Light Sensor - simple analog read](sensor-ldr.js)
 - [PIR Motion Sensor](sensor-motion.js)
+- [Laser](laser.js)
 
 ### Simple
 

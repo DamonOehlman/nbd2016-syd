@@ -14,6 +14,7 @@ Some simple examples for Nodebots Day Sydney 2016.
 ### Simple
 
 - [LED - external, use resistor](led.js)
+- [LED 3W - external, use resistor](led-3w.js)
 - [RGB LED - external, again resistors](led-rgb.js)
 - [Simple XY Joystick Example](joystick.js)
 - [Relay](relay.js)

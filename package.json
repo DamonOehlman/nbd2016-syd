@@ -19,7 +19,7 @@
   "homepage": "https://github.com/DamonOehlman/nbd2016#readme",
   "dependencies": {
     "babel-cli": "^6.11.4",
-    "johnny-five": "^0.9.60",
-    "nodebots-interchange": "github:ajfisher/nodebots-interchange"
+    "johnny-five": "^0.11.7",
+    "nodebots-interchange": "^1.1.6"
   }
 }

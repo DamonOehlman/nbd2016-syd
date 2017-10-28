@@ -30,6 +30,28 @@ new five.Board().on("ready", function() {
         "11111111"
     ];
 
+    const triangle = [
+      "00000001",
+      "00000011",
+      "00000101",
+      "00001001",
+      "00010001",
+      "00100001",
+      "01000001",
+      "11111111"
+    ];
+
+    const cross = [
+      '10000001',
+      '01000010',
+      '00100100',
+      '00011000',
+      '00011000',
+      '00100100',
+      '01000010',
+      '10000001'
+    ];
+
     const matrix = new five.Led.Matrix({
         pins: {
             data: 2,    // DIN
@@ -40,29 +62,25 @@ new five.Board().on("ready", function() {
 
     matrix.on();
 
-    let msg = "johnny-five".split("");
+    // let msg = "johnny-five".split("");
 
-    // Display each letter for 1 second
-    function next() {
-        var c;
+    // // Display each letter for 1 second
+    // function next() {
+    //     var c;
 
-        if (c = msg.shift()) {
-            matrix.draw(c);
-            setTimeout(next, 1000);
-        }
-    }
+    //     if (c = msg.shift()) {
+    //         matrix.draw(c);
+    //         setTimeout(next, 1000);
+    //     }
+    // }
 
-    next();
+    // next();
 
     this.repl.inject({
-        matrix: matrix,
-        // Type "heart()" in the REPL to
-        // display a heart!
-        heart: function() {
-            matrix.draw(heart);
-        },
-        square: function() {
-            matrix.draw(square);
-        }
+        matrix,
+        heart,
+        square,
+        triangle,
+        cross,
     });
 });
